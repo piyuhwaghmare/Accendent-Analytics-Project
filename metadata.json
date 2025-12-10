@@ -1,0 +1,9 @@
+{
+  "name": "AccidentAnalytics v2.0",
+  "description": "A court-admissible forensic accident reconstruction platform leveraging AI for video analysis, physics calculation, and insurance claim validation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
